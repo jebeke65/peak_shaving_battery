@@ -1,0 +1,11 @@
+{
+  "name": "Peak Shaving Battery",
+  "domain": "peak_shaving_battery",
+  "content_in_root": false,
+  "render_readme": true,
+  "homeassistant": "2024.6.0",
+  "country": "BE",
+  "iot_class": "local_polling",
+  "repository": "https://github.com/jebeke65/peak_shaving_battery",
+  "authors": ["jebeke65"]
+}
